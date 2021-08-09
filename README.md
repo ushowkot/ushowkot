@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ushowkot
+- 👋 Hi, I’m Showkot Usman.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript,php,C# and MS Sql database.
 - 💞️ I’m looking to collaborate on Software Development.
