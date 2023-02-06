@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Showkot Usman.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript,php,C# and MS Sql database.
+- 🌱 I’m currently learning Machine learning, AI.
 - 💞️ I’m looking to collaborate on Software Development.
 - 📫 How to reach me
-Email: ushowkot@gmail.com
-Contact: 880 1407622111
+Email: showkot.dev@gmail.com
+Contact: 880 1739864821
 Website : www.fillbd.com
 
 
