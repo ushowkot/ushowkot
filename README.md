@@ -1,8 +1,8 @@
-👋 Hi, I’m Showkot Usman.
-👀 I’m passionate about programming, particularly Mobile App Development using Dart and Flutter.
-🌱 I’m also exploring Machine Learning and AI.
-💞️ I’m looking to collaborate on software development projects.
-📫 You can reach me at:
+-👋 Hi, I’m Showkot Usman.
+-👀 I’m passionate about programming, particularly Mobile App Development using Dart and Flutter.
+-🌱 I’m also exploring Machine Learning and AI.
+-💞️ I’m looking to collaborate on software development projects.
+-📫 You can reach me at:
 
 Email: showkot.soft@gmail.com
 Contact: +880 1407622111
